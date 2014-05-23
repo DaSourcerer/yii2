@@ -183,7 +183,7 @@ JS
 
 <footer class="footer">
     <?php /* <p class="pull-left">&copy; My Company <?= date('Y') ?></p> */ ?>
-    <p class="pull-right"><small>Page generated on <?= date('r') ?></small></p>
+    <p class="pull-right"><small>Page generated on <time><?= date('r') ?></time></small></p>
     <?= Yii::powered() ?>
 </footer>
 
