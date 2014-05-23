@@ -20,7 +20,6 @@ if (isset($readme)) {
 
 <table class="summaryTable docIndex table table-bordered table-striped table-hover">
     <colgroup>
-        <col class="col-package" />
         <col class="col-class" />
         <col class="col-description" />
     </colgroup>
