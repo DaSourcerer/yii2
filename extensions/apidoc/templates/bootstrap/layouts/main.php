@@ -29,7 +29,6 @@ $this->beginPage();
 <head>
     <meta charset="<?= Yii::$app->charset ?>"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="language" content="en" />
     <?php $this->head() ?>
     <title><?= Html::encode($this->context->pageTitle) ?></title>
 </head>
